@@ -1,4 +1,4 @@
-# You need your own api-url, otherwise the app won't works.
+# You need your own api-url, otherwise the app won't work.
 
 #  Clima
 
